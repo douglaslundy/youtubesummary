@@ -67,13 +67,6 @@ Para mais informações, entre em contato pelo e-mail: douglaslundy@gmail.com
 2. **Funcionalidades**: Enumera as principais funcionalidades do projeto.
 3. **Instalação**: Inclui instruções detalhadas para configurar o projeto, incluindo a criação de um ambiente virtual e a instalação das dependências.
 4. **Uso**: Explica como executar o projeto.
-5. **Estrutura do Projeto**: Descreve brevemente os principais arquivos e diretórios.
-6. **Contribuição**: Incentiva a comunidade a contribuir com o projeto.
-7. **Licença**: Especifica a licença do projeto.
-8. **Contato**: Fornece uma forma de entrar em contato com o autor do projeto.
-
-Você pode ajustar o link do repositório e o contato de acordo com suas informações reais.
-
 
 
 
