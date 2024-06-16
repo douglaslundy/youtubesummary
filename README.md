@@ -27,21 +27,22 @@ Este projeto é um script desenvolvido com [LangChain](https://github.com/hwchas
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
 
-  ```python -m venv .venv
+   ```bash
+   python -m venv .venv
     source .venv/bin/activate  # No Windows use .venv\Scripts\activate
-
+   
 3. Instale as dependências necessárias:
-  ```pip install -r requirements.txt
+
+   ```bash
+   pip install -r requirements.txt
+
+  Uso
 
 
-Uso
+4. Para iniciar a aplicação, execute o seguinte comando:
 
-Para iniciar a aplicação, execute o seguinte comando:
-
-  ```streamlit run app/front.py
-
-
-
+   ```bash
+   streamlit run app/front.py
 
 Isso abrirá a interface web da aplicação no seu navegador padrão. Na barra lateral, você poderá inserir a URL do vídeo do YouTube e uma pergunta sobre o vídeo. Clique no botão "Perguntar" para receber a transcrição e a resposta.
 Estrutura do Projeto
